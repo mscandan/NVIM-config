@@ -1,0 +1,9 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "javascript", "graphql", "html", "yaml",  "json", "python", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.autoFixOnSave": true,
+  "tsserver.formatOnType":true,
+  "coc.preferences.formatOnType": true,
+  "eslint.run": "onSave",
+  "prettier.eslintIntegration": true
+
+}
